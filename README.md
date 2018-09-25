@@ -10,6 +10,11 @@ add menu entries.
 systray-rs is heavily influenced by
 [the systray library for the Go Language](https://github.com/getlantern/systray).
 
+#### Platform support
+- Windows
+- Linux (partial, tooltips unsupported)
+- Mac (In development)
+
 # License
 
 systray-rs includes some code
